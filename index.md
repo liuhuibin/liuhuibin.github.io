@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 tagline: android Haskell
+theme : twitter
 ---
 {% include JB/setup %}
 
