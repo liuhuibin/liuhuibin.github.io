@@ -1,8 +1,7 @@
 ---
 layout: post
 title: About Me
-tagline: android Haskell
-theme : twitter
+tagline: Android Haskell
 ---
 {% include JB/setup %}
 
