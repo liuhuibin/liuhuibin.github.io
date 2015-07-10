@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 tagline: android Haskell
 theme : twitter
