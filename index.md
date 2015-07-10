@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: About Me
+tagline: android Haskell
 ---
 {% include JB/setup %}
 
