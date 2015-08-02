@@ -1,6 +1,6 @@
-title:            Ditro
+title:            刘慧斌
 description:      Coding is a lifestyle.
-url:              DeathKing.github.io 
+url:              liuhuibin.github.io
 signoff:          DeathKing
 disqus_shortname: deathking
 
@@ -11,10 +11,6 @@ links:
     url:          /about
   - name:         Article
     url:          /
-  - name:         Quiz
-    url:          /quiz
-  - name:         Gallery
-    url:          /gallery
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
